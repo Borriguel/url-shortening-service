@@ -180,7 +180,6 @@ Você pode usar ferramentas como `curl`, Postman ou Swagger para interagir com a
 
 * Spring Web
 * Spring Boot Validation
-* Lombok
 * Spring Data JPA
 * PostgreSQL
 * Swagger/OpenAPI
